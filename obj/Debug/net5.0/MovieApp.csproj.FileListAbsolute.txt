@@ -1,0 +1,142 @@
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\obj\Debug\net5.0\MovieApp.csprojAssemblyReference.cache
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\obj\Debug\net5.0\MovieApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\obj\Debug\net5.0\MovieApp.AssemblyInfoInputs.cache
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\obj\Debug\net5.0\MovieApp.AssemblyInfo.cs
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\obj\Debug\net5.0\MovieApp.csproj.CoreCompileInputs.cache
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\obj\Debug\net5.0\MovieApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\obj\Debug\net5.0\MovieApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\appsettings.json
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\MovieApp.exe
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\MovieApp.deps.json
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\MovieApp.runtimeconfig.json
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\MovieApp.runtimeconfig.dev.json
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\MovieApp.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\ref\MovieApp.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\MovieApp.pdb
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\obj\Debug\net5.0\staticwebassets\MovieApp.StaticWebAssets.Manifest.cache
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\obj\Debug\net5.0\staticwebassets\MovieApp.StaticWebAssets.xml
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\obj\Debug\net5.0\scopedcss\bundle\MovieApp.styles.css
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\obj\Debug\net5.0\MovieApp.RazorTargetAssemblyInfo.cache
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\obj\Debug\net5.0\MovieApp.csproj.CopyComplete
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\obj\Debug\net5.0\MovieApp.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\obj\Debug\net5.0\ref\MovieApp.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\obj\Debug\net5.0\MovieApp.pdb
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\obj\Debug\net5.0\MovieApp.genruntimeconfig.cache
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\Namotion.Reflection.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\NJsonSchema.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\NSwag.Annotations.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\NSwag.AspNetCore.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\NSwag.Core.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\NSwag.Generation.dll
+C:\Users\Marcin-PC\Desktop\smestr 7\na pewno nie nowoczesnie techniki\si_szarp\MovieApp\bin\Debug\net5.0\NSwag.Generation.AspNetCore.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\appsettings.json
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\MovieApp.exe
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\MovieApp.deps.json
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\MovieApp.runtimeconfig.json
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\MovieApp.runtimeconfig.dev.json
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\MovieApp.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\ref\MovieApp.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\MovieApp.pdb
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\Humanizer.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\Namotion.Reflection.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\NJsonSchema.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\NSwag.Annotations.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\NSwag.AspNetCore.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\NSwag.Core.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\NSwag.Generation.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\NSwag.Generation.AspNetCore.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\pobrane-E\si_szarp\MovieApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\pobrane-E\si_szarp\MovieApp\obj\Debug\net5.0\MovieApp.csprojAssemblyReference.cache
+E:\pobrane-E\si_szarp\MovieApp\obj\Debug\net5.0\MovieApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\pobrane-E\si_szarp\MovieApp\obj\Debug\net5.0\MovieApp.AssemblyInfoInputs.cache
+E:\pobrane-E\si_szarp\MovieApp\obj\Debug\net5.0\MovieApp.AssemblyInfo.cs
+E:\pobrane-E\si_szarp\MovieApp\obj\Debug\net5.0\MovieApp.csproj.CoreCompileInputs.cache
+E:\pobrane-E\si_szarp\MovieApp\obj\Debug\net5.0\MovieApp.MvcApplicationPartsAssemblyInfo.cs
+E:\pobrane-E\si_szarp\MovieApp\obj\Debug\net5.0\MovieApp.MvcApplicationPartsAssemblyInfo.cache
+E:\pobrane-E\si_szarp\MovieApp\obj\Debug\net5.0\staticwebassets\MovieApp.StaticWebAssets.Manifest.cache
+E:\pobrane-E\si_szarp\MovieApp\obj\Debug\net5.0\staticwebassets\MovieApp.StaticWebAssets.xml
+E:\pobrane-E\si_szarp\MovieApp\obj\Debug\net5.0\scopedcss\bundle\MovieApp.styles.css
+E:\pobrane-E\si_szarp\MovieApp\obj\Debug\net5.0\MovieApp.RazorTargetAssemblyInfo.cache
+E:\pobrane-E\si_szarp\MovieApp\obj\Debug\net5.0\MovieApp.csproj.CopyComplete
+E:\pobrane-E\si_szarp\MovieApp\obj\Debug\net5.0\MovieApp.dll
+E:\pobrane-E\si_szarp\MovieApp\obj\Debug\net5.0\ref\MovieApp.dll
+E:\pobrane-E\si_szarp\MovieApp\obj\Debug\net5.0\MovieApp.pdb
+E:\pobrane-E\si_szarp\MovieApp\obj\Debug\net5.0\MovieApp.genruntimeconfig.cache
